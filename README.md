@@ -1,4 +1,4 @@
-<h1 align=center">Merhaba 👋, ben Merdan Ali Sever</h1>
+<h1 align=center">Merhaba 👋, ben Merdan Ali Sever  Geniousoft Şirketinte Stajyer</h1>
 <h3 align=center">👋 Merhaba, ben Merdan Ali Sever Tutkulu bir Bilgisayar Programlama öğrencisi ve yazılım geliştiricisiyim . Hem masaüstü hem de web tabanlı uygulamalara odaklanıyorum. Temiz, dayanıklı ve anlaşılır kod gruplarına sahiptir. Ayrıca, teknik dokümanları okuyup anlamama yardımcı olan B1 seviyesinde İngilizce yeterliliğim var.</h3>
 
 <p align="left">
